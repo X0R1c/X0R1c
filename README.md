@@ -5,4 +5,4 @@
 ## Contact
 For any questions, collaboration requests, or updates, feel free to reach out via:
 - **Telegram Contact**: [Contact Me](https://t.me/x86PHS)<br>
-- **Email**: [contact@petrvs](mailto:contato.pedropatricio@gmail.com) <br>
+- **Email**: [contact@petrvs](mailto:contact.patricivs@gmail.com) <br>
