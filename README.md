@@ -1,5 +1,5 @@
 
-| <a href="https://github.com/x86PHS"><img align="center" src="https://github-readme-stats-rho-lilac-21.vercel.app/api?username=x86PHS&show_icons=true&theme=github_dark&hide_border=true" alt="petrvs's github stats" /></a> | <a href="https://github.com/x86PHS"><img align="center" src="https://github-readme-stats-rho-lilac-21.vercel.app/api/top-langs/?username=x86PHS&layout=compact&theme=github_dark&hide_border=true&hide=TeX" /></a> |
+| <a href="https://github.com/x0R1cvs"><img align="center" src="https://github-readme-stats-rho-lilac-21.vercel.app/api?username=x0R1cvs&show_icons=true&theme=github_dark&hide_border=true" alt="x0R1cvs github stats" /></a> | <a href="https://github.com/x0R1cvs"><img align="center" src="https://github-readme-stats-rho-lilac-21.vercel.app/api/top-langs/?username=x0R1cvs&layout=compact&theme=github_dark&hide_border=true&hide=TeX" /></a> |
 | ------------- | ------------- |
 
 ## Contact
