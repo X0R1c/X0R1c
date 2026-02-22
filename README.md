@@ -5,4 +5,5 @@
 ## Contact
 For any questions, collaboration requests, or updates, feel free to reach out via:
 - **Telegram Contact**: [Contact Me](https://t.me/X0R1c)<br>
-- **Email**: [contact@petrvs](mailto:contact.patricivs@gmail.com) <br>
+- **Email**: [contact@petrvs](mailto:contact.patricivs@gmail.com)<br>
+- **Linkedin**: [Profile](https://www.linkedin.com/in/x0r1c/)<br>
